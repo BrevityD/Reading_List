@@ -39,7 +39,7 @@ Last Update: 2024.11.27
 
 ## NeurIPS
 
-- [ ] (2305.11206) [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) ![ToBeRead](https://img.shields.io/badge/to%20be%20read-red)
+- [x] (2305.11206) [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) ![ToBeRead](https://img.shields.io/badge/to%20be%20read-red)
 - [ ] (2404.08335) [Toward a Theory of Tokenization in LLMs](https://arxiv.org/abs/2404.08335) ![ToBeRead](https://img.shields.io/badge/to%20be%20read-red)
 - [x] (2405.07883)[Zero-Shot Tokenizer Transfer](https://arxiv.org/abs/2405.07883) ![Read](https://img.shields.io/badge/Read-green)
 
