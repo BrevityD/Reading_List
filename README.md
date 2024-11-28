@@ -26,7 +26,7 @@ Last Update: 2024.11.27
 
 ## Arxiv/UnderReview
 
-- [x] (2410.04335) [ReTok: Replacing Tokenizer to Enhance Representation Efficiency in Large Language Model](https://arxiv.org/abs/2410.04335) ![Read](https://img.shields.io/badge/Read-green)
+- [x] (2410.04335) [ReTok: Replacing Tokenizer to Enhance Representation Efficiency in Large Language Model](https://arxiv.org/abs/2410.04335) ![Read](https://img.shields.io/badge/Read-green) ![LLM](https://img.shields.io/badge/category-LLM-blue) ![Tokenization](https://img.shields.io/badge/category-Tokenization-blue)
 
 ## ICLR
 
@@ -39,9 +39,9 @@ Last Update: 2024.11.27
 
 ## NeurIPS
 
-- [x] (2305.11206) [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) ![ToBeRead](https://img.shields.io/badge/to%20be%20read-red)
+- [x] (2305.11206) [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) ![Read](https://img.shields.io/badge/Read-green) ![LLM](https://img.shields.io/badge/category-LLM-blue)
 - [ ] (2404.08335) [Toward a Theory of Tokenization in LLMs](https://arxiv.org/abs/2404.08335) ![ToBeRead](https://img.shields.io/badge/to%20be%20read-red)
-- [x] (2405.07883)[Zero-Shot Tokenizer Transfer](https://arxiv.org/abs/2405.07883) ![Read](https://img.shields.io/badge/Read-green)
+- [x] (2405.07883)[Zero-Shot Tokenizer Transfer](https://arxiv.org/abs/2405.07883) ![Read](https://img.shields.io/badge/Read-green) ![LLM](https://img.shields.io/badge/category-LLM-blue) ![Tokenization](https://img.shields.io/badge/category-Tokenization-blue)
 
 ## ACL
 
