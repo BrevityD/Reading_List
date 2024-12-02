@@ -9,7 +9,7 @@
 zotero 中以 tag 进行文章区分的方式非常科学，但本目录只是一个 reading list，所以不用 tag，使用来源进行区分。
 推荐与 zotero、obsidian 结合使用。
 
-Last Update: 2024.11.27
+Last Update: 2024.12.02
 
 ## tags
 
@@ -44,6 +44,8 @@ Last Update: 2024.11.27
 - [x] (2405.07883)[Zero-Shot Tokenizer Transfer](https://arxiv.org/abs/2405.07883) ![Read](https://img.shields.io/badge/Read-green) ![LLM](https://img.shields.io/badge/category-LLM-blue) ![Tokenization](https://img.shields.io/badge/category-Tokenization-blue)
 
 ## ACL
+
+- [x] (2404.19094) WORKSHOP [In-Context Symbolic Regression: Leveraging Language Models for Function Discovery](http://arxiv.org/abs/2404.19094)
 
 ## NAACL
 
