@@ -9,7 +9,7 @@
 zotero 中以 tag 进行文章区分的方式非常科学，但本目录只是一个 reading list，所以不用 tag，使用来源进行区分。
 推荐与 zotero、obsidian 结合使用。
 
-Last Update: 2024.12.02
+Last Update: 2024.12.03
 
 ## tags
 
@@ -23,6 +23,7 @@ Last Update: 2024.12.02
 - ![CodeGeneration](https://img.shields.io/badge/category-Code%20Generation-blue)
 - ![Reasoning](https://img.shields.io/badge/category-Reasoning-blue)
 - ![Tokenization](https://img.shields.io/badge/category-Tokenization-blue)
+- ![DataQuality](https://img.shields.io/badge/category-Data-blue)
 
 ## Arxiv/UnderReview
 
@@ -41,15 +42,17 @@ Last Update: 2024.12.02
 
 - [x] (2305.11206) [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) ![Read](https://img.shields.io/badge/Read-green) ![LLM](https://img.shields.io/badge/category-LLM-blue)
 - [ ] (2404.08335) [Toward a Theory of Tokenization in LLMs](https://arxiv.org/abs/2404.08335) ![ToBeRead](https://img.shields.io/badge/to%20be%20read-red)
-- [x] (2405.07883)[Zero-Shot Tokenizer Transfer](https://arxiv.org/abs/2405.07883) ![Read](https://img.shields.io/badge/Read-green) ![LLM](https://img.shields.io/badge/category-LLM-blue) ![Tokenization](https://img.shields.io/badge/category-Tokenization-blue)
+- [x] (2405.07883) [Zero-Shot Tokenizer Transfer](https://arxiv.org/abs/2405.07883) ![Read](https://img.shields.io/badge/Read-green) ![LLM](https://img.shields.io/badge/category-LLM-blue) ![Tokenization](https://img.shields.io/badge/category-Tokenization-blue)
 
 ## ACL
 
-- [x] (2404.19094) WORKSHOP [In-Context Symbolic Regression: Leveraging Language Models for Function Discovery](http://arxiv.org/abs/2404.19094)
+- [x] (2404.19094) WORKSHOP [In-Context Symbolic Regression: Leveraging Language Models for Function Discovery](http://arxiv.org/abs/2404.19094) ![LLM](https://img.shields.io/badge/category-LLM-blue)
 
 ## NAACL
 
 ## EMNLP
+
+- [x] (2409.16341) [Quality Matters: Evaluating Synthetic Data for Tool-Using LLMs](https://arxiv.org/abs/2409.16341) ![Read](https://img.shields.io/badge/Read-green) ![LLM](https://img.shields.io/badge/category-LLM-blue) ![DataQuality](https://img.shields.io/badge/category-Data-blue)
 
 ## AAAI
 
