@@ -9,7 +9,7 @@
 zotero 中以 tag 进行文章区分的方式非常科学，但本目录只是一个 reading list，所以不用 tag，使用来源进行区分。
 推荐与 zotero、obsidian 结合使用。
 
-Last Update: 2024.12.03
+Last Update: 2024.12.05
 
 ## tags
 
@@ -32,11 +32,13 @@ Last Update: 2024.12.03
 ## ICLR
 
 - [ ] [Rethinking Information-theoretic Generalization: Loss Entropy Induced PAC Bounds](https://openreview.net/pdf?id=GWSIo2MzuH) ![ToBeRead](https://img.shields.io/badge/to%20be%20read-red)
+- [x] (2405.02774) [GET MORE FOR LESS: PRINCIPLED DATA SELECTION  FOR WARMING UP FINE-TUNING IN LLMS](https://arxiv.org/abs/2405.02774) ![Read](https://img.shields.io/badge/Read-green) ![LLM](https://img.shields.io/badge/category-LLM-blue) ![DataQuality](https://img.shields.io/badge/category-Data-blue)
 
 ## ICML
 
 - [ ] (2305.18887) [How Does Information Bottleneck Help Deep Learning?](https://arxiv.org/abs/2305.18887) ![ToBeRead](https://img.shields.io/badge/to%20be%20read-red)
 - [ ] (2305.00909) [Outline, Then Details: Syntactically Guided Coarse-To-Fine Code Generation](https://arxiv.org/abs/2305.00909) ![ToBeRead](https://img.shields.io/badge/to%20be%20read-red)
+- [x] (2402.04833) [Long Is More for Alignment:  A Simple but Tough-to-Beat Baseline for Instruction Fine-Tuning](https://arxiv.org/abs/2402.04833) ![Read](https://img.shields.io/badge/Read-green) ![LLM](https://img.shields.io/badge/category-LLM-blue) ![DataQuality](https://img.shields.io/badge/category-Data-blue)
 
 ## NeurIPS
 
